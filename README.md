@@ -1,4 +1,3 @@
-# MobinEzzait
 
 # Hi, I'm Mobin 👋
 
